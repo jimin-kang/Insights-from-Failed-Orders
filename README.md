@@ -1,8 +1,8 @@
 **Description**
 
-This repository contains an analysis concerning the failed orders for Gett, the GTM technology platform.
+This repository contains an analysis concerning the failed orders for Gett, the Isreali-based GTM technology platform.
 
-For background context on the problem we're investigating and information about the data schemas, check out the StrataScratch link below:
+For background context on the problem we're investigating and information about the data schemas, check out the project link below:
 - https://platform.stratascratch.com/data-projects/insights-failed-orders
 
 
