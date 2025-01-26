@@ -1,13 +1,11 @@
-**Description**
-
+## Description
 This repository contains an analysis concerning the failed orders for Gett, the Isreali-based GTM technology platform.
 
 For background context on the problem we're investigating and information about the data schemas, check out the project link below:
-- https://platform.stratascratch.com/data-projects/insights-failed-orders
+* *https://platform.stratascratch.com/data-projects/insights-failed-orders
 
 
-**Deliverables**
-
+## Deliverables
 In this analysis, we will investigate the following questions:
 
 1. Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment, and reasons for order rejection. Analyse the resulting plot. Which category has the highest number of orders?
@@ -17,10 +15,9 @@ In this analysis, we will investigate the following questions:
 5. BONUS Hexagons. Using the h3 and folium packages, calculate how many sizes 8 hexes contain 80% of all orders from the original data sets and visualise the hexes, colouring them by the number of fails on the map.
 
 
-**Environment Setup & Program Execution**
-
+## Environment Setup & Program Execution**
 This project was developed using Python 3.10. However, you should be able to run these notebooks with any version of Python 3.
 
 The required dependencies for this project are listed in requirements.txt. For more information on creating an environment from a requirements file, check out the following:
-- https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
+* https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
 
